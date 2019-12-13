@@ -8,10 +8,10 @@
 αποτελέσματα που θα δίνει ένα ανεμόμετρο.
 
 Τα υλικά που θα χρειαστούμε είναι :
-1 arduino
-3 αισθητήρες απόστασης hc04
-1 dc motor 3V
-1 servomoter
-καλώδια
-1 breadboard
+1 arduino,
+3 αισθητήρες απόστασης hc04,
+1 dc motor 3V,
+1 servomoter,
+καλώδια,
+1 breadboard.
 
